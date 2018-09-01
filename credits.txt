@@ -1,0 +1,14 @@
+
+CREDITS
+
+Bootstrap
+http://getbootstrap.com/
+
+Images
+http://startupstockphotos.com/
+Stocknap
+https://stocknap.io
+
+Codepen
+http://codepen.com
+
